@@ -1,14 +1,14 @@
 # JavaJosa
 자바 한글 조사 처리
 
-# Introduction
+## Introduction
 - 파이썬 한글 조사 처리 [PyJosa](https://github.com/myevan/pyjosa) 패키지의 Java 구현.
 
-# 추가 기능
+## 추가 기능
 - 조사 처리 규칙과 앞 단어 사이 띄어쓰기 제거.
 - 조사 처리 규칙의 앞 단어가 숫자인 경우 처리 가능.
 
-# Requirements
+## Requirements
 - Java (JDK 8+)
 
 # 예제
